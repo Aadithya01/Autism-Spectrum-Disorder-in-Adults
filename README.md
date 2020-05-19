@@ -22,6 +22,7 @@ Fadi Fayez Thabtah, Department of Digital Technology, Manukau Institute of Techn
 
 1.Data Pre-processing and EDA
 2.Split the set into predictor set and label
+
 3.Split the set into train and test set
 4.Filling missing values, Class imbalance - upsampling and Feature Selection
 5.Modeling
